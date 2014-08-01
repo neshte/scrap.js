@@ -1,0 +1,12 @@
+{
+  "name"         : "crap",
+  "version"      : "0.0.1",
+  "description"  : "Scrape le web.",
+  "main"         : "crap.js",
+  "author"       : "Jim",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "fast-csv"   : "latest"
+  }
+}
